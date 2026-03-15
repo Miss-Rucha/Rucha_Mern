@@ -1,0 +1,47 @@
+.main-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.album-card {
+  padding: 1.5rem;
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.album-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+.album-cover {
+  width: 100%;
+  border-radius: 5px;
+  transition: transform 0.3s, filter 0.3s;
+}
+.album-cover:hover {
+  transform: scale(1.05);
+  filter: drop-shadow(0 0 1.5em #646cffaa);
+}
+
+.btn {
+  margin: 0.2rem;
+  border-radius: 8px;
+  padding: 0.6em 1.2em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+.btn:hover {
+  border-color: #646cff;
+}
+
+.footer-link {
+  color: #888;
+  transition: color 0.3s;
+}
+.footer-link:hover {
+  color: #646cff;
+}

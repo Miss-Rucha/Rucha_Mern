@@ -1,0 +1,45 @@
+{
+  "albums": [
+    {
+      "id": "1",
+      "albumName": "Divide",
+      "artist": "Ed Sheeran",
+      "releaseYear": 2017,
+      "genre": "Pop",
+      "coverImage": "https://themortalsoul.com/cdn/shop/files/168_600x.jpg?v=1744284852"
+    },
+    {
+      "id": "2",
+      "albumName": "A Head Full of Dreams",
+      "artist": "Coldplay",
+      "releaseYear": 2015,
+      "genre": "Alternative/Pop",
+      "coverImage": "https://drewsreview.wordpress.com/wp-content/uploads/2015/12/coldplay-a-head-full-of-dream-album-cover-e1625982972246.jpg?w=800&h=768&crop=1"
+    },
+    {
+      "id": "3",
+      "albumName": "Thriller",
+      "artist": "Michael Jackson",
+      "releaseYear": 1982,
+      "genre": "Pop",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAkAbpa8A8KdV0f9Lbj0d0ChWBDDtJkGopWA&s"
+    },
+    {
+      "id": "19cc",
+      "albumName": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "releaseYear": "2022",
+      "genre": "Pop Alternative",
+      "coverImage": "https://topfiverecords.in/wp-content/uploads/2021/09/billie-eilish-happier-than-ever.jpg"
+    },
+    {
+      "id": "d71b",
+      "albumName": "Devdas",
+      "artist": "Shreya Ghoshal",
+      "releaseYear": "2002",
+      "genre": "Bollywood Classical",
+      "coverImage": "https://i.scdn.co/image/ab67616d0000b2738160895f32a670e8276175e7"
+    }
+  ]
+
+}
